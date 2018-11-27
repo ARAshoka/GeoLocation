@@ -2,14 +2,14 @@
     [
         "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543314855723,
             "changeTime": 1543314855723,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543314855723,
             "changeTime": 1543314855723,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543317101020,
             "changeTime": 1543317101020,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543314855723,
             "changeTime": 1543314855723,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Users\\Ashok\\Desktop\\geolocation",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543315313504,
             "changeTime": 1543315313504,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1543317100973,
             "changeTime": 1543317100973,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -92,10 +92,10 @@
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9582,
-            "modifiedTime": 1543317100988,
-            "changeTime": 1543317100988,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "size": 9722,
+            "modifiedTime": 1543322359488,
+            "changeTime": 1543322359488,
+            "contentHash": "5d432b7215f3642f9625c799d59ca95c260ab11e"
         }
     ],
     [
@@ -105,10 +105,10 @@
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9630,
-            "modifiedTime": 1543317100988,
-            "changeTime": 1543317100988,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "size": 9770,
+            "modifiedTime": 1543322359504,
+            "changeTime": 1543322359504,
+            "contentHash": "1adce07f35b0f75edf498195287662599f5065be"
         }
     ],
     [
@@ -118,10 +118,10 @@
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9582,
-            "modifiedTime": 1543317101004,
-            "changeTime": 1543317101004,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "size": 9722,
+            "modifiedTime": 1543322359520,
+            "changeTime": 1543322359520,
+            "contentHash": "b7ebe7da114554df0550e5d31134502ba2c74859"
         }
     ],
     [
@@ -131,23 +131,23 @@
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9630,
-            "modifiedTime": 1543317101020,
-            "changeTime": 1543317101020,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "size": 9770,
+            "modifiedTime": 1543322359551,
+            "changeTime": 1543322359551,
+            "contentHash": "6210b481bada9ee0578e86d4a83d48981c491ade"
         }
     ],
     [
         "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1543317101020,
             "changeTime": 1543317101020,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -158,48 +158,48 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543317100957,
-            "changeTime": 1543317100957,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "modifiedTime": 1543322359457,
+            "changeTime": 1543322359457,
+            "contentHash": "4028822740e76c5404f62cabe2d99190a1c01813"
         }
     ],
     [
         "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543317100957,
             "changeTime": 1543317100957,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543317100957,
             "changeTime": 1543317100957,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543317101004,
             "changeTime": 1543317101004,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -210,9 +210,35 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543317101020,
-            "changeTime": 1543317101020,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "modifiedTime": 1543322359551,
+            "changeTime": 1543322359551,
+            "contentHash": "4d35956c02dd4d68d4c15d730ab1f1be8e32b030"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Percentage__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Percentage__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 374,
+            "modifiedTime": 1543322359473,
+            "changeTime": 1543322359473,
+            "contentHash": "8b6c5d4accde873ff0452aa3a108cc34d2296995"
+        }
+    ],
+    [
+        "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\permissionsets\\Percentage.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Ashok\\Desktop\\geolocation\\force-app\\main\\default\\permissionsets\\Percentage.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1543322359551,
+            "changeTime": 1543322359551,
+            "contentHash": "8a8d5078b9999f5e3c07d5ebebe8424cf5897c9d"
         }
     ]
 ]
